@@ -261,22 +261,22 @@ local t1 = {
     end)
 end,
 	[142823291] = function()
-    v21("Execute MM2 Loader", "Runs BlutXodes MM2 features", "ACTIVE", function()
+    v21("Execute MM2 Loader", "Runs Kzen MM2 features", "ACTIVE", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/zxcvs7/KKzen/refs/heads/main/Hub"))()
     end)
 end,
 	[124216119978534] = function()
-    v21("Execute Ride a Pet", "Loads Pastefy payload", "ACTIVE", function()
+    v21("Execute Ride a Pet", "Loads Ride A Pet", "ACTIVE", function()
         loadstring(game:HttpGet("https://pastefy.app/lym2rUW6/raw"))()
     end)
 end,
 	[4924922222] = function()
-    v21("Execute SP Hub", "Loads Brookhaven SP Hub module", "ACTIVE", function()
+    v21("Execute SP Hub", "Loads Brookhaven", "ACTIVE", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/as6cd0/SP_Hub/refs/heads/main/Brookhaven"))()
     end)
 end,
 	[113290951185460] = function()
-    v21("Execute Selton Loader", "Runs Sel01 loader module", "ACTIVE", function()
+    v21("Execute Selton Loader", "Runs Selux loader module", "ACTIVE", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/seltonmt012/sel01-rbx/main/loader.lua"))()
     end)
 end,
