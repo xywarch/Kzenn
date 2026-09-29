@@ -267,7 +267,7 @@ end,
 end,
 	[124216119978534] = function()
     v21("Execute Ride a Pet", "Loads Ride A Pet", "ACTIVE", function()
-        loadstring(game:HttpGet("https://pastefy.app/lym2rUW6/raw"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/joustingmatch/Ouroboros/main/loader.lua"))()
     end)
 end,
 	[4924922222] = function()
